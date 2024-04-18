@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="200" height="200" src="release-plan-logo.svg" alt="release-plan logo">
+</div>
+
 # release-plan
 
 This package was originally developed to help release [Embroider](https://github.com/embroider-build/embroider) and was extracted so everyone can use it 🎉
